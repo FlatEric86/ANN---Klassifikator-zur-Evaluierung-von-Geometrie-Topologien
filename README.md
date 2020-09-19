@@ -1,4 +1,4 @@
-# Klassifikator-zur-Evaluierung-von-Geometrie-Topologien-ANN
+# ANN - Klassifikator-zur-Evaluierung-von-Geometrie-Topologien
 Zur Projektbeschreibung lesen Sie bitte "Projektbeschreibung.pdf".
 
 # Zusatz zur Projektbeschreibung:
